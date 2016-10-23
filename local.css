@@ -22,7 +22,7 @@ position: absolute;
 top: 0;
 }
 .rating:before {
-    color: #a9a9a9;
+    color: red;
     content: "\2605\2605\2605\2605\2605";
     position: absolute;
 }
