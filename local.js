@@ -19,7 +19,7 @@ $(document).ready(function () {
     sort.classList.add("btn-group");
     $("input").addClass("form-control");
     $("select").addClass("form-control");
-    $("tr").addClass("well");
+    $("tr").addClass("");
     $("#edit-field-rating-field-price-value-asc") .wrap("<div class='btn btn-default'></div>") ;
     $("#edit-field-rating-field-price-value-desc") .wrap("<div class='btn btn-default'></div>") ;
     $("#edit-field-rating-created-asc") .wrap("<div class='btn btn-default'></div>") ;
