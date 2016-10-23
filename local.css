@@ -27,7 +27,7 @@ top: 0;
     position: absolute;
 }
 /*sort by div*/
-#edit-field-rating {
+#edit-field-rating-wrapper {
     top: 0;
     right: 0;
     float: right;
